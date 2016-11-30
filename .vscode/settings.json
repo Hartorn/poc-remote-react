@@ -1,0 +1,10 @@
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
+{
+        "eslint.autoFixOnSave": true,
+        "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\sh.exe",
+        "terminal.integrated.shellArgs.windows": [
+                "--login"
+        ],
+        "editor.formatOnSave": true,
+        "files.autoSave": "onFocusChange"
+}
